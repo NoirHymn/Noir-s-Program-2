@@ -1,0 +1,9 @@
+{
+  "appId": "com.noir.workoutplan",
+  "appName": "جدول التمرين",
+  "webDir": "www",
+  "backgroundColor": "#F4F1FA",
+  "android": {
+    "backgroundColor": "#F4F1FA"
+  }
+}
